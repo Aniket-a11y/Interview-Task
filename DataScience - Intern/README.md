@@ -10,6 +10,5 @@ Format: S.no. Name (Job Role)
 
 e.g.
 
-1. Kushagra Tandon - DS Inter
-2. Ankita Sareen - DS Inter
+1. Ankita Sareen - DS Inter
 
